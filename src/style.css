@@ -28,6 +28,10 @@ p{
     width: 300px;
 }
 
+input{
+    border: 1px solid black;
+}
+
 ection, main{
     border: 1px solid black;
 }
