@@ -10,11 +10,9 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  },
   "dependencies": {
     "sweetalert2": "^11.17.2",
     "vite": "^6.2.2"
-  }
+  },
+  "type": "module"
 }
