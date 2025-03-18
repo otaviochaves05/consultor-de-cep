@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "vite": "vite --open"
   },
   "keywords": [],
   "author": "",
@@ -11,5 +12,9 @@
   "description": "",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "sweetalert2": "^11.17.2",
+    "vite": "^6.2.2"
   }
 }
