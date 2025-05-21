@@ -17,9 +17,9 @@ Tecnologias utilizadas
 - HTML5
 - CSS3 
 - JavaScript
-  - `fetch()` API
-  - `async/await`
-  - `try/catch`
+  - fetch() API
+  - async/await
+  - try/catch
  
 Dependencias/ Bibliotecas
 - SweetAlert
